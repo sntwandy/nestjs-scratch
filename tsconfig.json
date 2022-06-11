@@ -4,5 +4,6 @@
     "target": "es2017",
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
+    "moduleResolution": "node"
   }
 }
