@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "dev": "npx ts-node-dev src/main.ts"
+  },
   "name": "nestjs-scratch",
   "version": "1.0.0",
   "description": "Nestjs course from scratch",
